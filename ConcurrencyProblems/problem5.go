@@ -51,7 +51,7 @@ func Problem5() {
 					account.Withdraw(rand.Intn(100))
 				}
 			}
-		}() //there is a syntx error in the code provided in the problem statement here () is missing
+		}() //there is a syntax error in the code provided in the problem statement here () is missing
 	}
 
 	// as the code provided in the problem statement the last loop keeps on running until some interrupt is provided
