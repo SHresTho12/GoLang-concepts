@@ -11,6 +11,12 @@ func main() {
 	Problem4()
 
 	Problem5()
+
+	Problem6()
+
+	Problem7()
+
+	Problem8()
 }
 
 //problem 2
