@@ -14,7 +14,7 @@ func main() {
 	//Problem5()  --> test function
 	//Problem6()  --> test function
 	//Problem7()
-	Problem8()
-	//Problem9()
+	//Problem8()
+	Problem9()
 	//Problem10()
 }
