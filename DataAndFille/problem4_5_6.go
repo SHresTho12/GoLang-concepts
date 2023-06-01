@@ -7,7 +7,7 @@ import (
 
 //there is also a alternative way to create a file using the ioutil package
 
-func Problem4() {
+func Problem4_5_6() {
 
 	fmt.Println("Problem 4 starts here")
 	fmt.Println()

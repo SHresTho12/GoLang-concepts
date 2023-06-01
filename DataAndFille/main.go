@@ -14,5 +14,7 @@ func main() {
 	//Problem1()
 	//Problem2()
 	//Problem3()
-	Problem4()
+	//Problem4_5_6()
+	//Problem7()
+	Problem8()
 }
